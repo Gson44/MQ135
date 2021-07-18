@@ -1,0 +1,34 @@
+@keyframes example {
+   from{margin-left: 0%;}
+   to{margin-left:39.5%}
+  }
+
+.dashboard {
+    animation-name: example;
+    animation-duration: 1.9s; 
+    border-style: solid;
+    height: 280px;
+    width: 380px;
+    color: white;
+    border-radius: 900px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    background-color: violet;
+    font-size: 10px;
+  
+}
+
+.dashboardTitle {
+    color: white;
+}
+
+.airValue {
+    font-size: 60px;
+    padding-bottom : 200px;
+    margin-top: auto;
+}
+img {
+    height: 100px;
+}
+

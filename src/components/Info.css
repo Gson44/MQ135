@@ -1,0 +1,27 @@
+@keyframes exampleInfo {
+    from{margin-right: 0%;}
+    to{margin-right:39.5%}
+  }
+.Info {
+    animation-name: exampleInfo;
+    animation-duration: 2s;
+    
+    border-style: solid;
+    height: 250px;
+    width: 350px;
+    color: white;
+    border-radius: 900px;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    background-color: violet;
+    font-size: 10px;
+    
+}
+
+.InfoTitle {
+    text-align: center;
+}
+.infoImage {
+    height:120px
+}
