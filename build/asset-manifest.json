@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MSQ135-ESP/static/css/main.43c4fbb1.chunk.css",
+    "main.js": "/MSQ135-ESP/static/js/main.f97397b5.chunk.js",
+    "main.js.map": "/MSQ135-ESP/static/js/main.f97397b5.chunk.js.map",
+    "runtime-main.js": "/MSQ135-ESP/static/js/runtime-main.2fea773f.js",
+    "runtime-main.js.map": "/MSQ135-ESP/static/js/runtime-main.2fea773f.js.map",
+    "static/js/2.937560ac.chunk.js": "/MSQ135-ESP/static/js/2.937560ac.chunk.js",
+    "static/js/2.937560ac.chunk.js.map": "/MSQ135-ESP/static/js/2.937560ac.chunk.js.map",
+    "static/js/3.5adc9895.chunk.js": "/MSQ135-ESP/static/js/3.5adc9895.chunk.js",
+    "static/js/3.5adc9895.chunk.js.map": "/MSQ135-ESP/static/js/3.5adc9895.chunk.js.map",
+    "index.html": "/MSQ135-ESP/index.html",
+    "static/css/main.43c4fbb1.chunk.css.map": "/MSQ135-ESP/static/css/main.43c4fbb1.chunk.css.map",
+    "static/js/2.937560ac.chunk.js.LICENSE.txt": "/MSQ135-ESP/static/js/2.937560ac.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/MSQ135-ESP/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fea773f.js",
+    "static/js/2.937560ac.chunk.js",
+    "static/css/main.43c4fbb1.chunk.css",
+    "static/js/main.f97397b5.chunk.js"
+  ]
+}
