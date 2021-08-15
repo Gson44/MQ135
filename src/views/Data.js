@@ -7,7 +7,7 @@ const Data = () => {
         <div>
             <Header />
             <UI/>
-            <Info />
+            {/* <Info /> */}
         </div>
     )
 }
